@@ -50,7 +50,8 @@ h5{
 @media (max-width: 480px){
     html
     {
-        overflow:hidden;
+        overflow-x:hidden;
+        overflow-y:hidden;
     }
   h1
   {
@@ -58,7 +59,7 @@ h5{
   }
   #Textarea
   {
-      width: 350px;
+      width: 300px;
       height: 200px;
   }
 }
@@ -66,7 +67,8 @@ h5{
 @media (max-width: 768px){
     html
     {
-        overflow:hidden;
+        overflow-x:hidden;
+        overflow-y:hidden;
     }
   h1
   {
