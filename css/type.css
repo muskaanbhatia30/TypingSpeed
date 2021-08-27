@@ -7,7 +7,7 @@
 body
 {
    
-    background-color: red ;
+    background-color: #1a1a1a;
 }
 .box
 {
@@ -43,8 +43,8 @@ h5{
 }
 #bty
 {
-    width: 10px;
-    height: 30px;
+    width: 100px;
+    height: 50px;
     padding: 10px;
 }
 @media (max-width: 480px){
