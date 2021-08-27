@@ -48,25 +48,33 @@ h5{
     padding: 10px;
 }
 @media (max-width: 480px){
+    html
+    {
+        overflow:hidden;
+    }
   h1
   {
-      font-size: 40px;
+      font-size: 35px;
   }
   #Textarea
   {
-      width: 400px;
+      width: 350px;
       height: 200px;
   }
 }
     
 @media (max-width: 768px){
-    h1
+    html
     {
-        font-size: 40px;
+        overflow:hidden;
     }
-    #Textarea
-    {
-        width: 400px;
-        height: 200px;
-    }
+  h1
+  {
+      font-size: 35px;
+  }
+  #Textarea
+  {
+      width: 350px;
+      height: 200px;
+  }
   }
